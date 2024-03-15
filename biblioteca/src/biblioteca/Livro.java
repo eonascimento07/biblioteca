@@ -4,8 +4,9 @@ public class Livro {
 
 	String titulo;
 	String autor;
+	int estoque;
 	boolean disponibilidade;
-
+	
 	public Livro(String titulo, String autor, boolean disponibilidade) {
 		this.titulo = titulo;
 		this.autor = autor;
