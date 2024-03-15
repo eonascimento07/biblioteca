@@ -21,7 +21,7 @@ public class Main extends Biblioteca{
             System.out.println("3. Consultar livros disponíveis");
             System.out.println("4. Adicionar livros");
             System.out.println("5. Sair");
-            System.out.println("Escolha uma opção: ");
+            System.out.println("Escolha uma opção: Teste");
             opcao = scanner.nextInt();
             scanner.nextLine();
             
